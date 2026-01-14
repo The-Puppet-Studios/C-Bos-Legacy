@@ -4,7 +4,7 @@ C-Bos is a Command Line App made in Python
 
 # Info
 
-Made by [@Thepuppetqueen57](https://github.com/Thepuppetqueen57), edited & improved by [@Xytriza](https://github.com/Xytriza)
+Made by [Puppet](https://github.com/Thepuppetqueen57), edited & improved by [Lncvrt/Xytriza](https://github.com/Lncvrt)
 
 C-Bos is getting rewritten so this will not be updated! Check out the rewrite [here](https://github.com/The-Puppet-Studios/C-Bos)
 
